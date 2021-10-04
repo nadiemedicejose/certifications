@@ -2,6 +2,7 @@
 
 ## 2021
 ### October
+* [*"Node.js: Testing and Code Quality"*][2021-10-03], issued by LinkedIn Learning
 * [*"Improving the Value of Your Time"*][2021-10-02], issued by LinkedIn Learning
 * [*"Node.js: Real-Time Web with Socket.IO"*][2021-10-01], issued by LinkedIn Learning
 
@@ -62,6 +63,7 @@
 * [*"HTML & CSS: Creating Forms"*][2020-02-01], issued by LinkedIn Learning
 
 
+[2021-10-03]: https://www.linkedin.com/learning/certificates/478f30236bc8d5147a57dfe1d2f77b0e9d9742db957e8b15b64b13ced9f891b2 "Node.js: Testing and Code Quality"
 [2021-10-02]: https://www.linkedin.com/learning/certificates/b139f598dcd5c572b03f739235353017dc237b5d57b480225de914b67232a13c "Improving the Value of Your Time"
 [2021-10-01]: https://www.linkedin.com/learning/certificates/3b4ea5416304e3a841837a8e0c7b74d9fa8b5501dafc72c51f59a86e81483801 "Node.js: Real-Time Web with Socket.IO"
 
