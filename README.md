@@ -2,6 +2,7 @@
 
 ## 2021
 ### October
+* [*"JavaScript Code Challenges"*][2021-10-06], issued by LinkedIn Learning
 * [*"Becoming a Node.js Developer"*][2021-10-05], issued by LinkedIn Learning
 * [*"Node.js: Deploying Applications"*][2021-10-04], issued by LinkedIn Learning
 * [*"Node.js: Testing and Code Quality"*][2021-10-03], issued by LinkedIn Learning
@@ -65,6 +66,7 @@
 * [*"HTML & CSS: Creating Forms"*][2020-02-01], issued by LinkedIn Learning
 
 
+[2021-10-06]: https://github.com/nadiemedicejose/certifications/blob/main/2021/10/06.pdf "JavaScript Code Challenges"
 [2021-10-05]: https://github.com/nadiemedicejose/certifications/blob/main/2021/10/05.pdf "Become a Node.js Developer"
 [2021-10-04]: https://github.com/nadiemedicejose/certifications/blob/main/2021/10/04.pdf "Node.js: Deploying Applications"
 [2021-10-03]: https://www.linkedin.com/learning/certificates/478f30236bc8d5147a57dfe1d2f77b0e9d9742db957e8b15b64b13ced9f891b2 "Node.js: Testing and Code Quality"
