@@ -2,6 +2,12 @@
 
 ## 2021
 ### October
+* [*"React: Building Progressive Web Apps (PWAs)"*][2020-10-12], issued by LinkedIn Learning
+* [*"JavaScript Essential Training"*][2020-10-11], issued by LinkedIn Learning
+* [*"React: Using TypeScript"*][2020-10-10], issued by LinkedIn Learning
+* [*"React: Server-Side Rendering"*][2020-10-09], issued by LinkedIn Learning
+* [*"React Hooks"*][2020-10-08], issued by LinkedIn Learning
+* [*"React: Building Styles with CSS Modules"*][2020-10-07], issued by LinkedIn Learning
 * [*"JavaScript Code Challenges"*][2021-10-06], issued by LinkedIn Learning
 * [*"Becoming a Node.js Developer"*][2021-10-05], issued by LinkedIn Learning
 * [*"Node.js: Deploying Applications"*][2021-10-04], issued by LinkedIn Learning
@@ -10,7 +16,6 @@
 * [*"Node.js: Real-Time Web with Socket.IO"*][2021-10-01], issued by LinkedIn Learning
 
 ### September
-
 * [*"Node.js: Securing RESTful APIs"*][2021-09-13], issued by LinkedIn Learning
 * [*"Node.js: Security"*][2021-09-12], issued by LinkedIn Learning
 * [*"Building RESTful APIs with Node.js and Express"*][2021-09-11], issued by LinkedIn Learning
@@ -66,6 +71,12 @@
 * [*"HTML & CSS: Creating Forms"*][2020-02-01], issued by LinkedIn Learning
 
 
+[2021-10-12]: https://github.com/nadiemedicejose/certifications/blob/main/2021/10/12.pdf "React: Building Progressive Web Apps (PWAs)"
+[2021-10-11]: https://github.com/nadiemedicejose/certifications/blob/main/2021/10/11.pdf "JavaScript Essential Training"
+[2021-10-10]: https://github.com/nadiemedicejose/certifications/blob/main/2021/10/10.pdf "React: Using TypeScript"
+[2021-10-09]: https://github.com/nadiemedicejose/certifications/blob/main/2021/10/09.pdf "React: Server-Side Rendering"
+[2021-10-08]: https://github.com/nadiemedicejose/certifications/blob/main/2021/10/08.pdf "React Hooks"
+[2021-10-07]: https://github.com/nadiemedicejose/certifications/blob/main/2021/10/07.pdf "React: Building Styles with CSS Modules"
 [2021-10-06]: https://github.com/nadiemedicejose/certifications/blob/main/2021/10/06.pdf "JavaScript Code Challenges"
 [2021-10-05]: https://github.com/nadiemedicejose/certifications/blob/main/2021/10/05.pdf "Become a Node.js Developer"
 [2021-10-04]: https://github.com/nadiemedicejose/certifications/blob/main/2021/10/04.pdf "Node.js: Deploying Applications"
