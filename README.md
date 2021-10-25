@@ -2,12 +2,12 @@
 
 ## 2021
 ### October
-* [*"React: Building Progressive Web Apps (PWAs)"*][2020-10-12], issued by LinkedIn Learning
-* [*"JavaScript Essential Training"*][2020-10-11], issued by LinkedIn Learning
-* [*"React: Using TypeScript"*][2020-10-10], issued by LinkedIn Learning
-* [*"React: Server-Side Rendering"*][2020-10-09], issued by LinkedIn Learning
-* [*"React Hooks"*][2020-10-08], issued by LinkedIn Learning
-* [*"React: Building Styles with CSS Modules"*][2020-10-07], issued by LinkedIn Learning
+* [*"React: Building Progressive Web Apps (PWAs)"*][2021-10-12], issued by LinkedIn Learning
+* [*"JavaScript Essential Training"*][2021-10-11], issued by LinkedIn Learning
+* [*"React: Using TypeScript"*][2021-10-10], issued by LinkedIn Learning
+* [*"React: Server-Side Rendering"*][2021-10-09], issued by LinkedIn Learning
+* [*"React Hooks"*][2021-10-08], issued by LinkedIn Learning
+* [*"React: Building Styles with CSS Modules"*][2021-10-07], issued by LinkedIn Learning
 * [*"JavaScript Code Challenges"*][2021-10-06], issued by LinkedIn Learning
 * [*"Becoming a Node.js Developer"*][2021-10-05], issued by LinkedIn Learning
 * [*"Node.js: Deploying Applications"*][2021-10-04], issued by LinkedIn Learning
